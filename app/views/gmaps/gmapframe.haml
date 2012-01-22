@@ -191,7 +191,7 @@
   
   var jug = new Juggernaut({
     secure: ('https:' == document.location.protocol),
-    host: #{ IP_ADDR }, //document.location.hostname,
+    host: document.location.hostname,
     port: 8080 //document.location.port
   });
 
