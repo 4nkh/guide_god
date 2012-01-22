@@ -61,5 +61,5 @@ BlindGuide::Application.configure do
   URL = "http://www.godguide.us"
   GEO_HOME = [45.5521137, -73.8966954]
   
-  IP_ADDR = "http://178.32.157.245"
+  IP_ADDR = "178.32.157.245"
 end
