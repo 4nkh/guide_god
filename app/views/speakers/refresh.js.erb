@@ -1,0 +1,28 @@
+//var image = '/assets/taxi-icon.png'
+//var home_img = '/assets/person-icon-mid.png'
+//var title = 'you'
+//var title_taxi = 'Taxi <%= params[:id] %>'
+
+var iconData = {
+  //"us": { width: 50, height: 50 },
+  //"ca": { width: 24, height: 14 },
+  "flag-shadow": { width: 40, height: 30 },
+  //"house": { width: 32, height: 32 },
+  //"house-shadow": { width: 59, height: 32 },
+  //"headquarters": { width: 32, height: 32 },
+  "you": { width: 59, height: 36 },
+  "taxi": { width: 80, height: 80 }
+  //"headquarters-shadow": { width: 59, height: 32 }
+};
+
+var officeLayer = [
+  {
+    "zoom": [0, 19],
+    "places": [
+      <%= @geo.blank? ? '' : raw("{ \"name\": \"Taxi #{ params[:id] }\", \"icon\": [\"taxi\", \"flag-shadow\"], \"posn\": #{ @geo.to_s } },") %>
+      { "name": "you", "icon": ["you", "flag-shadow"], "posn": <%= @home %> }
+    ]
+  }
+];
+	clearMarkers();
+	reloadMarkers();

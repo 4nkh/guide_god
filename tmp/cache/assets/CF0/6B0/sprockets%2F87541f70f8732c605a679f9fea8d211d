@@ -1,0 +1,17 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1326041837.506206:@value{I"
+class:EFI"StaticAsset;
+FI"id;
+F"%e228fb58695931d019702801a28cbd03I"logical_path;
+FI"person-icon-mid.png;
+TI"pathname;
+FI"0$root/app/assets/images/person-icon-mid.png;
+FI"content_type;
+FI"image/png;
+FI"
+mtime;
+FI"2012-01-08T11:51:20-05:00;
+FI"length;
+FI"	2616;
+FI"digest;
+F"%3dcc6fddd2ca9e69295b6ffaab85817eI"_version;
+F"%46dde6621c301f4928e3b34efee9e3b5

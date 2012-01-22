@@ -1,0 +1,45 @@
+:javascript
+  google.maps.event.addDomListener(window, 'load', initialize);
+  function initialize() { 
+  #{ @geo.blank? ? "" : "var latlng1 = new google.maps.LatLng(#{ (@geo.to_s).gsub('[','').gsub(']','') });"}
+  #{ @home.blank? ? "var latlng = new google.maps.LatLng(-65.853161,-63.662113); var zooming = 8;" : "var latlng = new google.maps.LatLng(#{ (@home.to_s).gsub('[','').gsub(']','') }); var zooming = 15;" } 
+  var myOptions = { 
+  zoom: zooming, 
+  center: latlng, 
+  mapTypeId: google.maps.MapTypeId.ROADMAP 
+  }; 
+  
+  var map = new google.maps.Map(document.getElementById("map_canvas"),myOptions); 
+  
+  //#{ "var bounds = new google.maps.LatLngBounds(new google.maps.LatLng(#{(@geo.to_s).gsub('[','').gsub(']','') }), new google.maps.LatLng(#{(@geo.to_s).gsub('[','').gsub(']','') }));"}
+  //map.fitBounds(bounds);
+      
+  //mmng = new MarkerManager(map, {trackMarkers: true});
+  //var mm = new GMarkerManager(map, {maxZoom:19, trackMarkers: true});  
+  
+  
+  var image = '/assets/taxi-icon-mid.png'
+  var home_img = '/assets/person-icon-mid.png'
+  var title = 'you'
+  #{ "var title_taxi = 'Taxi #{params[:id]}'"}
+  //google.maps.event.addListener(mmng, 'loaded', function() {
+    #{ @geo.blank? ? "" : "var taxiMarker = new google.maps.Marker({ position: latlng1, map: map, title: title_taxi, icon: image });"}
+    #{ @home.blank? ? "" : "var homeMarker = new google.maps.Marker({ position: latlng, map: map, title: title, icon: home_img });"}
+  //mmng.addMarkers(new Array(taxiMarker));
+  //mmng.addMarkers(new Array(homeMarker));
+  //  console.log(Array(taxiMarker));
+    //alert("test1");
+  //  mmng.refresh();
+    //alert("test2");
+  //});
+    
+  //#{ @geo.blank? ? "" : "var taxiMarker = new google.maps.Marker({ position: latlng1, map: map, icon: image });"} 
+  //#{ @home.blank? ? "" : "var homeMarker = new google.maps.Marker({ position: latlng, map: map, icon: home_img });"}
+  }   
+  google.setOnLoadCallback(initialize);
+
+//= link_to "Click me", "http://maps.googleapis.com/maps/api/distancematrix/json?origins=#{ (@home.to_s).gsub('[','').gsub(']','') }&destinations=#{ (@geo.to_s).gsub('[','').gsub(']','') }&mode=driving&language=fr-FR&sensor=false", :method => :post, :remote => true
+//%a{:href => "http://maps.googleapis.com/maps/api/distancematrix/json?origins=#{ (@home.to_s).gsub('[','').gsub(']','') }&destinations=#{ (@geo.to_s).gsub('[','').gsub(']','') }&mode=driving&language=fr-FR&sensor=false"} Click here
+//origins=Vancouver+BC|Seattle&destinations=San+Francisco|Victoria+BC&mode=bicycling&language=fr-FR&sensor=false"} Click here
+//walking
+#map_canvas

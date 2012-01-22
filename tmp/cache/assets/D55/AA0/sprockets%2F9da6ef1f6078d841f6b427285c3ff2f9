@@ -1,0 +1,18 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1326040873.5498738:@value{I"
+class:EFI"StaticAsset;
+FI"id;
+F"%4f296701c493a0a4f12891eb49c09d9aI"logical_path;
+FI"taxi-icon.png;
+TI"pathname;
+FI"*$root/app/assets/images/taxi-icon.png;
+FI"content_type;
+FI"image/png;
+FI"
+mtime;
+FI"2012-01-08T11:31:09-05:00;
+FI"length;
+FI"
+47119;
+FI"digest;
+F"%35f99e35ac98b9be774d231ff3a01027I"_version;
+F"%46dde6621c301f4928e3b34efee9e3b5
