@@ -31,4 +31,6 @@ BlindGuide::Application.configure do
   
   URL = "http://mathieu.artfox.com"
   GEO_HOME = [45.5521137, -73.8966954]
+  
+  IP_ADDR = "http://mathieu.artfox.com"
 end
