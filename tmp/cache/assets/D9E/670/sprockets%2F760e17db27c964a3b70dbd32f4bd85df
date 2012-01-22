@@ -1,6 +1,0 @@
-o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1326060024.8491368:@value{	I"length:EFiiI"digest;
-F"%f596b7e6d3515dbd823b49b32a16153cI"source;
-FI"i$.ajaxSetup({ beforeSend: function (xhr) { xhr.setRequestHeader("Accept", "text/javascript"); } });
-;
-FI"_version;
-F"%1b435dbcc8d2c38b1cb998e9b88d7452
