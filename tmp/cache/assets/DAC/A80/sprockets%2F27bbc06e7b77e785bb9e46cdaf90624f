@@ -1,7 +1,7 @@
-o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1326603047.666184:@value{I"
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327263715.5542545:@value{I"
 class:EFI"StaticAsset;
 FI"id;
-F"%8ac0abc06aeaf92bd5d5c9e0d68b324cI"logical_path;
+F"%c4d08a9a8f2c476d6a45c418e41ad72aI"logical_path;
 FI"you.png;
 TI"pathname;
 FI"$$root/app/assets/images/you.png;
@@ -9,9 +9,9 @@ FI"content_type;
 FI"image/png;
 FI"
 mtime;
-FI"2012-01-08T11:51:20-05:00;
+FI"2012-01-22T15:20:38-05:00;
 FI"length;
 FI"	2616;
 FI"digest;
-F"%3dcc6fddd2ca9e69295b6ffaab85817eI"_version;
-F"%46dde6621c301f4928e3b34efee9e3b5
+F"%12826bc39ec0a6e0baae68df5c05aa69I"_version;
+F"%1c9609bc58b1e77c196de29021583379

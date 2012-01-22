@@ -1,0 +1,7 @@
+:hosts: 
+  - :port: 8080 
+    :host: 127.0.0.1 
+    :public_host: www.godguide.us 
+    :public_port: 8080
+    # :secret_key: your_secret_key 
+    # :environment: :development

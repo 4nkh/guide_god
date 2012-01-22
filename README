@@ -1,13 +1,21 @@
 ====================================================== 
 
 START REDIS
+  dev:
+
   cd /usr/local/bin 
   redis-server
+
+  as background process:
+  /etc/init.d/redis start|stop|restart...
   
 ======================================================  
 
 START JUGGERNAUT
   juggernaut
+
+  as background process:
+  /usr/local/lib/node_modules/juggernaut# nohup node server.js &
   
 ======================================================  
   

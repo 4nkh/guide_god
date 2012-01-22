@@ -4909,3 +4909,2024 @@ Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 14:52:44 -0500
   Parameters: {"id"=>"T1_01"}
 Rendered speakers/refresh.js.erb (0.1ms)
 Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/gmapframe/T1_01" for 70.26.176.73 at 2012-01-22 15:21:25 -0500
+  Processing by GmapsController#gmapframe as HTML
+  Parameters: {"id"=>"T1_01"}
+Rendered gmaps/gmapframe.haml within layouts/application (11.2ms)
+Completed 200 OK in 43ms (Views: 42.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/markers.js" for 70.26.176.73 at 2012-01-22 15:21:26 -0500
+Compiled markers.js  (0ms)  (pid 22605)
+Served asset /markers.js - 200 OK (120ms)
+
+
+Started GET "/assets/markermanager.js" for 70.26.176.73 at 2012-01-22 15:21:29 -0500
+Compiled markermanager.js  (1ms)  (pid 22605)
+Served asset /markermanager.js - 200 OK (226ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 70.26.176.73 at 2012-01-22 15:21:30 -0500
+Served asset /soundmanager2.swf - 200 OK (3ms)
+
+
+Started GET "/favicon.ico" for 70.26.176.73 at 2012-01-22 15:21:30 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:21:55 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.9ms)
+Completed 200 OK in 29ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/you.png" for 70.26.176.73 at 2012-01-22 15:21:55 -0500
+Served asset /you.png - 200 OK (2ms)
+
+
+Started GET "/assets/taxi-icon.png" for 70.26.176.73 at 2012-01-22 15:21:55 -0500
+Served asset /taxi-icon.png - 200 OK (1ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:22:20 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:22:45 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:23:10 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:23:35 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 70.26.176.73 at 2012-01-22 15:24:07 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (0ms)
+
+
+Started GET "/favicon.ico" for 70.26.176.73 at 2012-01-22 15:24:07 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:24:32 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 26ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/you.png" for 70.26.176.73 at 2012-01-22 15:24:32 -0500
+Served asset /you.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/taxi-icon.png" for 70.26.176.73 at 2012-01-22 15:24:32 -0500
+Served asset /taxi-icon.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:24:57 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:25:22 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:25:47 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:26:12 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 45ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:26:37 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:27:02 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:27:27 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:27:52 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:28:17 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 30ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:28:42 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:29:07 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 40ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:29:32 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:29:57 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:33:10 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:33:11 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:33:11 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:33:17 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:33:42 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:34:07 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:34:32 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/gmapframe/T1_01" for 70.26.176.73 at 2012-01-22 15:34:40 -0500
+  Processing by GmapsController#gmapframe as HTML
+  Parameters: {"id"=>"T1_01"}
+Rendered gmaps/gmapframe.haml within layouts/application (1.9ms)
+Completed 200 OK in 5ms (Views: 4.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/markers.js" for 70.26.176.73 at 2012-01-22 15:34:40 -0500
+Served asset /markers.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/markermanager.js" for 70.26.176.73 at 2012-01-22 15:34:44 -0500
+Served asset /markermanager.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 70.26.176.73 at 2012-01-22 15:34:44 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (0ms)
+
+
+Started GET "/favicon.ico" for 70.26.176.73 at 2012-01-22 15:34:44 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:35:09 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 25ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/you.png" for 70.26.176.73 at 2012-01-22 15:35:09 -0500
+Served asset /you.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/taxi-icon.png" for 70.26.176.73 at 2012-01-22 15:35:09 -0500
+Served asset /taxi-icon.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:35:34 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:35:59 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/gmapframe/T1_01" for 70.26.176.73 at 2012-01-22 15:36:18 -0500
+  Processing by GmapsController#gmapframe as HTML
+  Parameters: {"id"=>"T1_01"}
+Rendered gmaps/gmapframe.haml within layouts/application (1.5ms)
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/markers.js" for 70.26.176.73 at 2012-01-22 15:36:18 -0500
+Served asset /markers.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/markermanager.js" for 70.26.176.73 at 2012-01-22 15:36:18 -0500
+Served asset /markermanager.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 70.26.176.73 at 2012-01-22 15:36:19 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (0ms)
+
+
+Started GET "/favicon.ico" for 70.26.176.73 at 2012-01-22 15:36:19 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:36:44 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 24ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/you.png" for 70.26.176.73 at 2012-01-22 15:36:44 -0500
+Served asset /you.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/taxi-icon.png" for 70.26.176.73 at 2012-01-22 15:36:44 -0500
+Served asset /taxi-icon.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:37:09 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:37:34 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:37:59 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:38:24 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 49ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/gmapframe/T1_01" for 70.26.176.73 at 2012-01-22 15:38:59 -0500
+  Processing by GmapsController#gmapframe as HTML
+  Parameters: {"id"=>"T1_01"}
+Rendered gmaps/gmapframe.haml within layouts/application (25.4ms)
+Completed 200 OK in 58ms (Views: 57.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/markers.js" for 70.26.176.73 at 2012-01-22 15:39:00 -0500
+Served asset /markers.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/markermanager.js" for 70.26.176.73 at 2012-01-22 15:39:00 -0500
+Served asset /markermanager.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 70.26.176.73 at 2012-01-22 15:39:00 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (3ms)
+
+
+Started GET "/favicon.ico" for 70.26.176.73 at 2012-01-22 15:39:00 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/gmapframe/T1_01" for 70.26.176.73 at 2012-01-22 15:41:16 -0500
+  Processing by GmapsController#gmapframe as HTML
+  Parameters: {"id"=>"T1_01"}
+Rendered gmaps/gmapframe.haml within layouts/application (25.1ms)
+Completed 200 OK in 57ms (Views: 56.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/markers.js" for 70.26.176.73 at 2012-01-22 15:41:16 -0500
+Served asset /markers.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/markermanager.js" for 70.26.176.73 at 2012-01-22 15:41:16 -0500
+Served asset /markermanager.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 70.26.176.73 at 2012-01-22 15:41:17 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (1ms)
+
+
+Started GET "/favicon.ico" for 70.26.176.73 at 2012-01-22 15:41:17 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/gmapframe/T1_01" for 70.26.176.73 at 2012-01-22 15:43:37 -0500
+  Processing by GmapsController#gmapframe as HTML
+  Parameters: {"id"=>"T1_01"}
+Rendered gmaps/gmapframe.haml within layouts/application (25.1ms)
+Completed 200 OK in 57ms (Views: 56.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/markers.js" for 70.26.176.73 at 2012-01-22 15:43:37 -0500
+Served asset /markers.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/markermanager.js" for 70.26.176.73 at 2012-01-22 15:43:37 -0500
+Served asset /markermanager.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 70.26.176.73 at 2012-01-22 15:43:37 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (1ms)
+
+
+Started GET "/favicon.ico" for 70.26.176.73 at 2012-01-22 15:43:37 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/gmapframe/T1_01" for 70.26.176.73 at 2012-01-22 15:45:41 -0500
+  Processing by GmapsController#gmapframe as HTML
+  Parameters: {"id"=>"T1_01"}
+Rendered gmaps/gmapframe.haml within layouts/application (25.3ms)
+Completed 200 OK in 57ms (Views: 56.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/markers.js" for 70.26.176.73 at 2012-01-22 15:45:41 -0500
+Served asset /markers.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/markermanager.js" for 70.26.176.73 at 2012-01-22 15:45:41 -0500
+Served asset /markermanager.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 70.26.176.73 at 2012-01-22 15:45:41 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (1ms)
+
+
+Started GET "/favicon.ico" for 70.26.176.73 at 2012-01-22 15:45:41 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:46:06 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.8ms)
+Completed 200 OK in 31ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/you.png" for 70.26.176.73 at 2012-01-22 15:46:06 -0500
+Served asset /you.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/taxi-icon.png" for 70.26.176.73 at 2012-01-22 15:46:06 -0500
+Served asset /taxi-icon.png - 304 Not Modified (1ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:46:31 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 42ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:46:57 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 31ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:47:21 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/gmapframe/T1_01" for 70.26.176.73 at 2012-01-22 15:47:29 -0500
+  Processing by GmapsController#gmapframe as HTML
+  Parameters: {"id"=>"T1_01"}
+Rendered gmaps/gmapframe.haml within layouts/application (1.3ms)
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/markers.js" for 70.26.176.73 at 2012-01-22 15:47:29 -0500
+Served asset /markers.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/markermanager.js" for 70.26.176.73 at 2012-01-22 15:47:29 -0500
+Served asset /markermanager.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 70.26.176.73 at 2012-01-22 15:47:29 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (0ms)
+
+
+Started GET "/favicon.ico" for 70.26.176.73 at 2012-01-22 15:47:29 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/gmapframe/T1_01" for 70.26.176.73 at 2012-01-22 15:47:41 -0500
+  Processing by GmapsController#gmapframe as HTML
+  Parameters: {"id"=>"T1_01"}
+Rendered gmaps/gmapframe.haml within layouts/application (1.3ms)
+Completed 200 OK in 3ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/markers.js" for 70.26.176.73 at 2012-01-22 15:47:42 -0500
+Served asset /markers.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/markermanager.js" for 70.26.176.73 at 2012-01-22 15:47:42 -0500
+Served asset /markermanager.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 70.26.176.73 at 2012-01-22 15:47:42 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (0ms)
+
+
+Started GET "/favicon.ico" for 70.26.176.73 at 2012-01-22 15:47:42 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:48:07 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 25ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/you.png" for 70.26.176.73 at 2012-01-22 15:48:07 -0500
+Served asset /you.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/taxi-icon.png" for 70.26.176.73 at 2012-01-22 15:48:07 -0500
+Served asset /taxi-icon.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:48:32 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:48:57 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:49:22 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:49:47 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/gmapframe/T1_01" for 70.26.176.73 at 2012-01-22 15:50:06 -0500
+  Processing by GmapsController#gmapframe as HTML
+  Parameters: {"id"=>"T1_01"}
+Rendered gmaps/gmapframe.haml within layouts/application (1.4ms)
+Completed 200 OK in 4ms (Views: 3.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/markers.js" for 70.26.176.73 at 2012-01-22 15:50:06 -0500
+Served asset /markers.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/markermanager.js" for 70.26.176.73 at 2012-01-22 15:50:06 -0500
+Served asset /markermanager.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 70.26.176.73 at 2012-01-22 15:50:06 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (0ms)
+
+
+Started GET "/favicon.ico" for 70.26.176.73 at 2012-01-22 15:50:06 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:50:31 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 24ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/you.png" for 70.26.176.73 at 2012-01-22 15:50:31 -0500
+Served asset /you.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/taxi-icon.png" for 70.26.176.73 at 2012-01-22 15:50:31 -0500
+Served asset /taxi-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/gmapframe/T1_01" for 70.26.176.73 at 2012-01-22 15:50:44 -0500
+  Processing by GmapsController#gmapframe as HTML
+  Parameters: {"id"=>"T1_01"}
+Rendered gmaps/gmapframe.haml within layouts/application (1.2ms)
+Completed 200 OK in 3ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/markers.js" for 70.26.176.73 at 2012-01-22 15:50:44 -0500
+Served asset /markers.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/markermanager.js" for 70.26.176.73 at 2012-01-22 15:50:44 -0500
+Served asset /markermanager.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 70.26.176.73 at 2012-01-22 15:50:44 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (0ms)
+
+
+Started GET "/favicon.ico" for 70.26.176.73 at 2012-01-22 15:50:44 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:51:09 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 26ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/you.png" for 70.26.176.73 at 2012-01-22 15:51:09 -0500
+Served asset /you.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/taxi-icon.png" for 70.26.176.73 at 2012-01-22 15:51:09 -0500
+Served asset /taxi-icon.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:51:34 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:51:59 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:52:24 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 25ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 70.26.176.73 at 2012-01-22 15:52:46 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.haml within layouts/application (8.8ms)
+Completed 200 OK in 13ms (Views: 12.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:52:49 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 24ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/swf/soundmanager2.swf" for 70.26.176.73 at 2012-01-22 15:52:50 -0500
+
+ActionController::RoutingError (No route matches [GET] "/swf/soundmanager2.swf"):
+  
+
+
+
+Started GET "/favicon.ico" for 70.26.176.73 at 2012-01-22 15:52:50 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:53:14 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:53:39 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:54:04 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:54:29 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:54:54 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:55:19 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:55:44 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:56:09 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:56:34 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 36ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:56:59 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:57:24 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:57:49 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:58:14 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 27ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:58:39 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:59:04 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 27ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:59:29 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 15:59:54 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:00:19 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 25ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:00:44 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:01:09 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 30ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:01:34 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 39ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:01:59 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:02:24 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:02:49 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:03:14 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 25ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:03:39 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:04:04 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:04:29 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:04:54 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:05:19 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (22.9ms)
+Completed 200 OK in 47ms (Views: 23.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:05:44 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:06:09 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 26ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:06:34 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 46ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:06:59 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:07:24 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:07:49 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:08:14 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:08:39 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:09:04 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:09:29 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:09:54 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:10:19 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:10:44 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:11:09 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:11:34 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 39ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:11:59 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:12:24 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:12:49 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:13:14 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 26ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:13:39 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:14:04 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:14:29 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:14:54 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:15:19 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:15:44 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:16:09 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:16:34 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 40ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:16:59 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:17:24 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 26ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:17:49 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:18:14 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:18:39 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:19:04 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:19:29 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:19:54 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 41ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:20:28 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:20:44 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:21:09 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:21:34 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 40ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:21:59 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:22:24 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:22:49 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:23:14 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:23:39 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:24:04 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:24:29 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:24:54 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:25:19 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:25:44 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 23ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:26:09 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:26:34 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 39ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:26:59 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:27:24 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 23ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:27:49 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:28:14 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 25ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:28:39 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:29:04 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:29:29 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:29:54 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 36ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:30:19 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:30:44 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:31:09 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:31:34 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 40ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:31:59 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:32:24 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:32:49 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:33:14 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:33:39 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:34:04 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 25ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:34:29 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 150ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:34:54 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:35:19 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:35:44 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:36:09 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:36:34 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 39ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:36:59 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 36ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:37:24 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:37:49 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:38:14 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:38:39 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:39:04 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 25ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:39:29 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:39:54 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 41ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:40:19 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 25ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:40:44 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:41:09 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 25ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:41:34 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 40ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:41:59 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:42:24 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:42:49 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:43:14 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:43:39 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:44:04 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:44:29 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:44:54 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:45:19 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 26ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:45:44 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 44ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:46:09 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:46:34 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 56ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:46:59 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:47:24 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 31ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:47:49 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:48:14 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 27ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:48:39 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:49:04 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:49:29 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:49:54 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 37ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:50:20 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:50:44 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:51:09 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:51:34 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 38ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:51:59 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:52:24 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:52:49 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:53:14 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 25ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:53:39 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:54:04 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:54:29 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:54:54 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:55:19 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:55:44 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 25ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:56:09 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:56:34 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 39ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:56:59 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:57:24 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 26ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:57:49 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:58:14 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 25ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:58:39 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:59:04 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:59:29 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 16:59:54 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 36ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 17:00:19 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 17:00:44 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 17:01:09 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 17:01:34 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 38ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 17:02:08 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 17:02:24 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 23ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 17:02:49 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 17:03:14 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 17:03:39 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 17:04:04 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 17:04:29 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 17:04:54 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 17:05:19 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 17:05:44 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 17:06:09 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 17:06:34 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 38ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 17:06:59 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 17:07:24 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 17:07:49 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 17:08:14 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 17:08:39 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 17:09:04 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 25ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 17:09:29 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 70.26.176.73 at 2012-01-22 17:09:54 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 38ms (Views: 0.5ms | ActiveRecord: 0.0ms)
