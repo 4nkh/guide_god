@@ -1,5 +1,5 @@
 :javascript
-  soundManager.url = '/swf/'; 
+  soundManager.url = '/assets'; 
   soundManager.debugMode = true
   
 %form{:onsubmit => "return false;"}
@@ -45,7 +45,7 @@
   %input#t{:name => "t", :type => "text"} 
   %button{:type => "submit"} Submit
 #sm2-container.movieContainer{:style => "position: absolute; width: 1px; height: 1px; top: 50px; left: 50px; "}
-  %embed{:name => "sm2movie", :id => "sm2movie", :src => "/swf/soundmanager2.swf", :width => "100%", :height => "100%", :quality => "high", :allowscriptaccess => "always", :bgcolor => "#ffffff", :pluginspage => "http://www.macromedia.com/go/getflashplayer", :type => "application/x-shockwave-flash", :wmode => ""}
+  %embed{:name => "sm2movie", :id => "sm2movie", :src => "/assets/soundmanager2.swf", :width => "100%", :height => "100%", :quality => "high", :allowscriptaccess => "always", :bgcolor => "#ffffff", :pluginspage => "http://www.macromedia.com/go/getflashplayer", :type => "application/x-shockwave-flash", :wmode => ""}
   
   
 :javascript

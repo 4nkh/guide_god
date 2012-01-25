@@ -22,8 +22,8 @@ class SpeakersController < ApplicationController
   def output
     @geo = [45.5521137, -73.8966954]
     @home = [46.5521137, -73.1966954]
-    filename = "tmp/#{Digest::SHA1.hexdigest(params.to_s)}.mp3"
-    espeak(filename, params) # unless filename exists
+    filename = "#{Rails.root}/tmp/#{Digest::SHA1.hexdigest(params.to_s)}.mp3"
+    espeak(filename, params) #unless filename.exists?
     send_data(File.read(filename), :type => "audio/mpeg", :filename => filename, :disposition => "inline")
     #render :file => File.read(filename), :content_type => 'audio/mpeg', :encoding => nil
     #[200, {'Content-type' => 'audio/mpeg'}, File.read(filename)]

@@ -1,0 +1,17 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327501967.8982763:@value{I"
+class:EFI"StaticAsset;
+FI"id;
+F"%5f0fa7af0e73f1d3af42b017d00737fbI"logical_path;
+FI"soundmanager2.swf;
+TI"pathname;
+FI"+$root/app/assets/swf/soundmanager2.swf;
+FI"content_type;
+FI""application/x-shockwave-flash;
+FI"
+mtime;
+FI"2012-01-22T15:20:38-05:00;
+FI"length;
+FI"	2850;
+FI"digest;
+F"%914ce5cb17edf0e7f0025ba688e8e451I"_version;
+F"%1c9609bc58b1e77c196de29021583379

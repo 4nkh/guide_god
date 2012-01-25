@@ -40746,3 +40746,308 @@ Mysql2::Error (Access denied for user 'root'@'localhost' (using password: NO)):
 Rendered /usr/local/rvm/gems/ruby-1.9.3-p0/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
 Rendered /usr/local/rvm/gems/ruby-1.9.3-p0/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.9ms)
 Rendered /usr/local/rvm/gems/ruby-1.9.3-p0/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (4.5ms)
+
+
+Started GET "/gmapframe/T1_01" for 24.200.107.176 at 2012-01-22 22:33:03 -0500
+  Processing by GmapsController#gmapframe as HTML
+  Parameters: {"id"=>"T1_01"}
+Rendered gmaps/gmapframe.haml within layouts/application (27.8ms)
+Compiled application.css  (0ms)  (pid 25155)
+Compiled application.js  (4ms)  (pid 25155)
+Compiled jquery.js  (1ms)  (pid 25155)
+Compiled jquery_ujs.js  (0ms)  (pid 25155)
+Compiled json.js  (0ms)  (pid 25155)
+Compiled swfobject.js  (0ms)  (pid 25155)
+Compiled blind.js  (0ms)  (pid 25155)
+Compiled juggernaut.js  (0ms)  (pid 25155)
+Compiled soundmanager2.js  (1ms)  (pid 25155)
+Completed 200 OK in 126ms (Views: 124.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 24.200.107.176 at 2012-01-22 22:33:03 -0500
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 24.200.107.176 at 2012-01-22 22:33:03 -0500
+Served asset /jquery.js - 200 OK (3ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 24.200.107.176 at 2012-01-22 22:33:03 -0500
+Served asset /jquery_ujs.js - 200 OK (2ms)
+
+
+Started GET "/assets/json.js?body=1" for 24.200.107.176 at 2012-01-22 22:33:03 -0500
+Served asset /json.js - 200 OK (1ms)
+
+
+Started GET "/assets/swfobject.js?body=1" for 24.200.107.176 at 2012-01-22 22:33:03 -0500
+Served asset /swfobject.js - 200 OK (1ms)
+
+
+Started GET "/assets/blind.js?body=1" for 24.200.107.176 at 2012-01-22 22:33:03 -0500
+Served asset /blind.js - 200 OK (1ms)
+
+
+Started GET "/assets/juggernaut.js?body=1" for 24.200.107.176 at 2012-01-22 22:33:03 -0500
+Served asset /juggernaut.js - 200 OK (1ms)
+
+
+Started GET "/assets/soundmanager2.js?body=1" for 24.200.107.176 at 2012-01-22 22:33:03 -0500
+Served asset /soundmanager2.js - 200 OK (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 24.200.107.176 at 2012-01-22 22:33:03 -0500
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/markers.js" for 24.200.107.176 at 2012-01-22 22:33:03 -0500
+Compiled markers.js  (0ms)  (pid 25155)
+Served asset /markers.js - 200 OK (5ms)
+
+
+Started GET "/assets/markermanager.js" for 24.200.107.176 at 2012-01-22 22:33:05 -0500
+Compiled markermanager.js  (0ms)  (pid 25155)
+Served asset /markermanager.js - 200 OK (6ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 24.200.107.176 at 2012-01-22 22:33:05 -0500
+Served asset /soundmanager2.swf - 200 OK (2ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-22 22:33:30 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.8ms)
+Completed 200 OK in 32ms (Views: 3.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/you.png" for 24.200.107.176 at 2012-01-22 22:33:30 -0500
+Served asset /you.png - 200 OK (2ms)
+
+
+Started GET "/assets/taxi-icon.png" for 24.200.107.176 at 2012-01-22 22:33:30 -0500
+Served asset /taxi-icon.png - 200 OK (2ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-22 22:33:55 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 27ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/speakers/output?text=votre%20taxi%20est%20presentement%20a%2034,9%20kilomeitre%20soit%20a%20environ%2032%20minutes%20de%20votre%20position&voice=fr&gender=en-f2&pitch=0&speed=80" for 24.200.107.176 at 2012-01-22 22:34:18 -0500
+  Processing by SpeakersController#output as */*
+  Parameters: {"text"=>"votre taxi est presentement a 34,9 kilomeitre soit a environ 32 minutes de votre position", "voice"=>"fr", "gender"=>"en-f2", "pitch"=>"0", "speed"=>"80"}
+Rendered text template (0.0ms)
+Sent data tmp/a67c225be86fe110d7047980d82bd160d6046ab6.mp3 (9.9ms)
+Completed 200 OK in 145ms (Views: 9.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-22 22:34:20 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 54ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-22 22:34:20 -0500
+Served asset /taxi.png - 200 OK (2ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-22 22:34:45 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 49ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-22 22:35:10 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 77ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-22 22:35:35 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 54ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-22 22:36:00 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 42ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-22 22:36:25 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 56ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-22 22:36:50 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 47ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-22 22:37:15 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 28ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-22 22:37:40 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 66ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-22 22:38:05 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.3ms)
+Completed 200 OK in 75ms (Views: 19.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-22 22:38:30 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 46ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-22 22:38:55 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 57ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/gmapframe/T1_01" for 24.200.107.176 at 2012-01-25 09:22:08 -0500
+  Processing by GmapsController#gmapframe as HTML
+  Parameters: {"id"=>"T1_01"}
+Rendered gmaps/gmapframe.haml within layouts/application (28.2ms)
+Compiled application.css  (0ms)  (pid 6532)
+Compiled application.js  (5ms)  (pid 6532)
+Compiled jquery.js  (1ms)  (pid 6532)
+Compiled jquery_ujs.js  (0ms)  (pid 6532)
+Compiled json.js  (0ms)  (pid 6532)
+Compiled swfobject.js  (0ms)  (pid 6532)
+Compiled blind.js  (0ms)  (pid 6532)
+Compiled juggernaut.js  (0ms)  (pid 6532)
+Compiled soundmanager2.js  (1ms)  (pid 6532)
+Completed 200 OK in 124ms (Views: 122.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 24.200.107.176 at 2012-01-25 09:22:08 -0500
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 24.200.107.176 at 2012-01-25 09:22:08 -0500
+Served asset /jquery.js - 200 OK (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 24.200.107.176 at 2012-01-25 09:22:08 -0500
+Served asset /jquery_ujs.js - 200 OK (1ms)
+
+
+Started GET "/assets/json.js?body=1" for 24.200.107.176 at 2012-01-25 09:22:08 -0500
+Served asset /json.js - 200 OK (1ms)
+
+
+Started GET "/assets/swfobject.js?body=1" for 24.200.107.176 at 2012-01-25 09:22:08 -0500
+Served asset /swfobject.js - 200 OK (1ms)
+
+
+Started GET "/assets/blind.js?body=1" for 24.200.107.176 at 2012-01-25 09:22:08 -0500
+Served asset /blind.js - 200 OK (1ms)
+
+
+Started GET "/assets/juggernaut.js?body=1" for 24.200.107.176 at 2012-01-25 09:22:08 -0500
+Served asset /juggernaut.js - 200 OK (1ms)
+
+
+Started GET "/assets/soundmanager2.js?body=1" for 24.200.107.176 at 2012-01-25 09:22:08 -0500
+Served asset /soundmanager2.js - 200 OK (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 24.200.107.176 at 2012-01-25 09:22:08 -0500
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/markers.js" for 24.200.107.176 at 2012-01-25 09:22:08 -0500
+Compiled markers.js  (0ms)  (pid 6532)
+Served asset /markers.js - 200 OK (3ms)
+
+
+Started GET "/assets/markermanager.js" for 24.200.107.176 at 2012-01-25 09:22:09 -0500
+Compiled markermanager.js  (0ms)  (pid 6532)
+Served asset /markermanager.js - 200 OK (6ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 24.200.107.176 at 2012-01-25 09:22:10 -0500
+Served asset /soundmanager2.swf - 200 OK (3ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 09:22:35 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.8ms)
+Completed 200 OK in 67ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/speakers/output?text=votre%20taxi%20est%20presentement%20a%2034,9%20kilomeitre%20soit%20a%20environ%2032%20minutes%20de%20votre%20position&voice=fr&gender=en-f2&pitch=0&speed=80" for 24.200.107.176 at 2012-01-25 09:22:35 -0500
+  Processing by SpeakersController#output as */*
+  Parameters: {"text"=>"votre taxi est presentement a 34,9 kilomeitre soit a environ 32 minutes de votre position", "voice"=>"fr", "gender"=>"en-f2", "pitch"=>"0", "speed"=>"80"}
+Rendered text template (0.0ms)
+Sent data tmp/a67c225be86fe110d7047980d82bd160d6046ab6.mp3 (5.3ms)
+Completed 200 OK in 139ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi-icon.png" for 24.200.107.176 at 2012-01-25 09:22:35 -0500
+Served asset /taxi-icon.png - 200 OK (2ms)
+
+
+Started GET "/assets/you.png" for 24.200.107.176 at 2012-01-25 09:22:35 -0500
+Served asset /you.png - 200 OK (1ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 09:22:35 -0500
+Served asset /taxi.png - 200 OK (1ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 09:23:00 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 64ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 09:28:50 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.5ms)
+Completed 200 OK in 93ms (Views: 25.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 09:29:15 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 67ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 09:29:40 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 60ms (Views: 3.3ms | ActiveRecord: 0.0ms)
