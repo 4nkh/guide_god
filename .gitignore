@@ -1,0 +1,10 @@
+log/*.log
+log/*.pid
+tmp/**/*
+tmp
+config/environments/development.rb
+config/environments/production.rb
+doc/sdoc
+.sass-cache/*
+.rvmrc
+.bundle
