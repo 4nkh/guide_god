@@ -18033,3 +18033,2557 @@ Completed 200 OK in 54ms (Views: 0.6ms | ActiveRecord: 0.0ms)
 
 Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:22:11 -0500
 Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:22:35 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 43ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:22:36 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:23:00 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 56ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:23:01 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:23:25 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 52ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:23:26 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:23:50 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 1186ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:23:52 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:24:15 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 56ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:24:16 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:24:40 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 55ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:24:41 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:25:05 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 55ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:25:06 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:25:30 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 48ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:25:31 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:25:55 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 53ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:25:56 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:26:20 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 73ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:26:21 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:26:45 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 54ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:26:46 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:27:10 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 56ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:27:11 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:27:35 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 54ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:27:36 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:28:00 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 52ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:28:01 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:28:25 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 57ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:28:26 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:28:50 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 60ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:28:51 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:29:15 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 99ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:29:16 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:29:40 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 55ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:29:41 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:30:05 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 55ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:30:06 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:30:30 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 53ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:30:31 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:30:55 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 55ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:30:56 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:31:20 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 58ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:31:21 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:31:45 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 57ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:31:46 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:32:10 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 54ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:32:11 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:32:35 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 63ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:32:36 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:33:00 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 68ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:33:01 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:33:25 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 53ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:33:26 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:33:50 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 51ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:33:51 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 11:34:15 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 46ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-25 11:34:16 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 24.200.107.176 at 2012-01-25 11:34:25 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (0ms)
+
+
+Started GET "/favicon.ico" for 24.200.107.176 at 2012-01-25 11:34:25 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/assets/soundmanager2.swf" for 24.200.107.176 at 2012-01-25 11:34:26 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (0ms)
+
+
+Started GET "/favicon.ico" for 24.200.107.176 at 2012-01-25 11:34:26 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/gmapframe/T1_01" for 24.200.107.176 at 2012-01-25 13:15:51 -0500
+  Processing by GmapsController#gmapframe as HTML
+  Parameters: {"id"=>"T1_01"}
+Rendered gmaps/gmapframe.haml within layouts/application (1.4ms)
+Completed 200 OK in 4ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/markers.js" for 24.200.107.176 at 2012-01-25 13:15:52 -0500
+Served asset /markers.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/markermanager.js" for 24.200.107.176 at 2012-01-25 13:15:53 -0500
+Served asset /markermanager.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 24.200.107.176 at 2012-01-25 13:15:54 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (0ms)
+
+
+Started GET "/favicon.ico" for 24.200.107.176 at 2012-01-25 13:15:54 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:16:18 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 25ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/you.png" for 24.200.107.176 at 2012-01-25 13:16:18 -0500
+Served asset /you.png - 304 Not Modified (2ms)
+
+
+Started GET "/assets/taxi-icon.png" for 24.200.107.176 at 2012-01-25 13:16:18 -0500
+Served asset /taxi-icon.png - 304 Not Modified (1ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:16:43 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:17:08 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:17:33 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 26ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:17:58 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 42ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:18:23 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:18:48 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:19:13 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 27ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:19:38 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:20:03 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:20:28 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 26ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:20:53 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:21:18 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 27ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:21:43 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:22:08 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:22:33 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:22:58 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 129ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:23:23 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:23:48 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:24:13 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 26ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:24:38 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:25:03 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 39ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:25:28 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 26ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:25:53 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:26:18 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 26ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:26:43 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:27:08 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:27:33 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 24ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:27:58 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 41ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:28:23 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:28:48 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 26ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:29:13 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:29:38 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:30:03 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:30:28 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:30:53 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 26ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:31:18 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:31:43 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:32:08 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:32:33 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:32:58 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 38ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:33:23 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 25ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:33:48 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:34:13 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 26ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:34:38 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:35:03 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 40ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:35:28 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 46ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:35:53 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:36:18 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:36:43 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:37:08 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:37:33 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 26ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:37:58 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 41ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:38:23 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:38:48 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:39:13 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 25ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:39:38 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:40:03 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:40:28 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:40:53 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:41:18 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:41:43 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:42:08 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:42:33 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:42:58 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 39ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:43:23 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:43:48 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:44:13 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:44:38 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:45:03 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 37ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:45:28 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 25ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:45:53 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:46:18 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 26ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:46:43 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:47:08 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:47:33 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 25ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:47:58 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 42ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:48:23 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:48:48 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:49:13 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:49:38 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:50:03 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:50:28 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:50:53 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:51:18 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:51:43 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:52:08 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:52:33 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 31ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:52:58 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 40ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:53:23 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:53:48 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-25 13:54:13 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 24ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 107.20.226.209 at 2012-01-25 17:43:00 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.haml within layouts/application (8.4ms)
+Completed 200 OK in 15ms (Views: 13.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 84.16.74.49 at 2012-01-26 06:59:17 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.haml within layouts/application (0.6ms)
+Completed 200 OK in 4ms (Views: 3.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "//jmx-console/HtmlAdaptor" for 184.106.228.156 at 2012-01-26 13:45:47 -0500
+
+ActionController::RoutingError (No route matches [GET] "/jmx-console/HtmlAdaptor"):
+  
+
+
+
+Started GET "/" for 88.191.145.21 at 2012-01-26 17:49:54 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.haml within layouts/application (0.6ms)
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 222.186.48.17 at 2012-01-27 04:32:56 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.haml within layouts/application (0.6ms)
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/robots.txt" for 77.88.26.25 at 2012-01-27 07:47:03 -0500
+
+ActionController::RoutingError (No route matches [GET] "/robots.txt"):
+  
+
+
+
+Started GET "/" for 77.88.26.25 at 2012-01-27 08:37:33 -0500
+  Processing by PagesController#index as */*
+Rendered pages/index.haml within layouts/application (11.1ms)
+Completed 200 OK in 17ms (Views: 16.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 77.88.26.25 at 2012-01-27 08:37:40 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (0ms)
+
+
+Started GET "/" for 123.100.15.133 at 2012-01-27 14:45:00 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.haml within layouts/application (0.6ms)
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 70.26.179.4 at 2012-01-27 16:53:17 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.haml within layouts/application (0.6ms)
+Completed 200 OK in 4ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 70.26.179.4 at 2012-01-27 16:53:18 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (0ms)
+
+
+Started GET "/favicon.ico" for 70.26.179.4 at 2012-01-27 16:53:18 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/" for 61.128.118.133 at 2012-01-27 19:24:28 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.haml within layouts/application (0.6ms)
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/robots.txt" for 38.99.82.240 at 2012-01-27 20:03:11 -0500
+
+ActionController::RoutingError (No route matches [GET] "/robots.txt"):
+  
+
+
+
+Started GET "/" for 38.99.82.240 at 2012-01-27 20:03:14 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.haml within layouts/application (0.6ms)
+Completed 200 OK in 4ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/gmapframe/T1_01" for 24.200.107.176 at 2012-01-27 23:14:58 -0500
+  Processing by GmapsController#gmapframe as HTML
+  Parameters: {"id"=>"T1_01"}
+Rendered gmaps/gmapframe.haml within layouts/application (1.6ms)
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/markers.js" for 24.200.107.176 at 2012-01-27 23:14:58 -0500
+Served asset /markers.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/markermanager.js" for 24.200.107.176 at 2012-01-27 23:14:58 -0500
+Served asset /markermanager.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 24.200.107.176 at 2012-01-27 23:14:58 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (0ms)
+
+
+Started GET "/favicon.ico" for 24.200.107.176 at 2012-01-27 23:14:58 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-27 23:15:23 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 66ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/speakers/output?text=votre%20taxi%20est%20presentement%20a%2049,8%20kilomeitre%20soit%20a%20environ%2047%20minutes%20de%20votre%20position&voice=fr&gender=en-f2&pitch=0&speed=80" for 24.200.107.176 at 2012-01-27 23:15:24 -0500
+  Processing by SpeakersController#output as */*
+  Parameters: {"text"=>"votre taxi est presentement a 49,8 kilomeitre soit a environ 47 minutes de votre position", "voice"=>"fr", "gender"=>"en-f2", "pitch"=>"0", "speed"=>"80"}
+Rendered text template (0.0ms)
+Sent data /var/www/guide_god/tmp/0193fc7e44a46dd1d218e178adc1645746ed2f06.mp3 (0.5ms)
+Completed 200 OK in 122ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-27 23:15:24 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/taxi-icon.png" for 24.200.107.176 at 2012-01-27 23:15:24 -0500
+Served asset /taxi-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/you.png" for 24.200.107.176 at 2012-01-27 23:15:24 -0500
+Served asset /you.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-27 23:15:24 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/taxi-icon.png" for 24.200.107.176 at 2012-01-27 23:15:24 -0500
+Served asset /taxi-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-27 23:15:38 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/taxi-icon.png" for 24.200.107.176 at 2012-01-27 23:15:38 -0500
+Served asset /taxi-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-27 23:15:38 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/taxi-icon.png" for 24.200.107.176 at 2012-01-27 23:15:38 -0500
+Served asset /taxi-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-27 23:15:38 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/taxi-icon.png" for 24.200.107.176 at 2012-01-27 23:15:38 -0500
+Served asset /taxi-icon.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-27 23:15:48 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 80ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-27 23:15:49 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/taxi-icon.png" for 24.200.107.176 at 2012-01-27 23:15:49 -0500
+Served asset /taxi-icon.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-27 23:16:13 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 52ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/speakers/output?text=votre%20taxi%20est%20presentement%20a%2034,9%20kilomeitre%20soit%20a%20environ%2032%20minutes%20de%20votre%20position&voice=fr&gender=en-f2&pitch=0&speed=80" for 24.200.107.176 at 2012-01-27 23:16:14 -0500
+  Processing by SpeakersController#output as */*
+  Parameters: {"text"=>"votre taxi est presentement a 34,9 kilomeitre soit a environ 32 minutes de votre position", "voice"=>"fr", "gender"=>"en-f2", "pitch"=>"0", "speed"=>"80"}
+Rendered text template (0.0ms)
+Sent data /var/www/guide_god/tmp/a67c225be86fe110d7047980d82bd160d6046ab6.mp3 (0.5ms)
+Completed 200 OK in 140ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-27 23:16:14 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/taxi-icon.png" for 24.200.107.176 at 2012-01-27 23:16:14 -0500
+Served asset /taxi-icon.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-27 23:16:38 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.2ms)
+Completed 200 OK in 72ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-27 23:16:39 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/taxi-icon.png" for 24.200.107.176 at 2012-01-27 23:16:39 -0500
+Served asset /taxi-icon.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-27 23:17:03 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 62ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-27 23:17:04 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/taxi-icon.png" for 24.200.107.176 at 2012-01-27 23:17:04 -0500
+Served asset /taxi-icon.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-27 23:17:28 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.6ms)
+Completed 200 OK in 102ms (Views: 26.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/speakers/output?text=votre%20taxi%20est%20presentement%20a%2034,9%20banane%20soit%20a%20environ%2032%20minutes%20de%20votre%20position&voice=fr&gender=en-f2&pitch=0&speed=80" for 24.200.107.176 at 2012-01-27 23:17:29 -0500
+  Processing by SpeakersController#output as */*
+  Parameters: {"text"=>"votre taxi est presentement a 34,9 banane soit a environ 32 minutes de votre position", "voice"=>"fr", "gender"=>"en-f2", "pitch"=>"0", "speed"=>"80"}
+Rendered text template (0.0ms)
+Sent data /var/www/guide_god/tmp/1ff77c2f7ad15874f3d32d7b141ac3c0147c02b5.mp3 (2.5ms)
+Completed 200 OK in 139ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-27 23:17:29 -0500
+Served asset /taxi.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/taxi-icon.png" for 24.200.107.176 at 2012-01-27 23:17:29 -0500
+Served asset /taxi-icon.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-27 23:17:53 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.3ms)
+Completed 200 OK in 56ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-27 23:17:54 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/taxi-icon.png" for 24.200.107.176 at 2012-01-27 23:17:54 -0500
+Served asset /taxi-icon.png - 304 Not Modified (0ms)
+
+
+Started POST "/speakers/refresh" for 24.200.107.176 at 2012-01-27 23:18:18 -0500
+  Processing by SpeakersController#refresh as JS
+  Parameters: {"id"=>"T1_01"}
+Rendered speakers/refresh.js.erb (0.1ms)
+Completed 200 OK in 50ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/taxi.png" for 24.200.107.176 at 2012-01-27 23:18:19 -0500
+Served asset /taxi.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/taxi-icon.png" for 24.200.107.176 at 2012-01-27 23:18:19 -0500
+Served asset /taxi-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 24.200.107.176 at 2012-01-27 23:18:27 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (2ms)
+
+
+Started GET "/favicon.ico" for 24.200.107.176 at 2012-01-27 23:18:27 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/robots.txt" for 38.99.82.239 at 2012-01-27 23:55:17 -0500
+
+ActionController::RoutingError (No route matches [GET] "/robots.txt"):
+  
+
+
+
+Started GET "/" for 38.99.82.239 at 2012-01-27 23:55:17 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.haml within layouts/application (10.1ms)
+Completed 200 OK in 25ms (Views: 24.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 188.138.48.37 at 2012-01-28 05:50:28 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.haml within layouts/application (0.4ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/cpanel" for 188.138.112.171 at 2012-01-28 13:57:16 -0500
+
+ActionController::RoutingError (No route matches [GET] "/cpanel"):
+  
+
+
+
+Started GET "/" for 24.56.164.162 at 2012-01-29 01:06:36 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.haml within layouts/application (0.7ms)
+Completed 200 OK in 5ms (Views: 4.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "//forum/includes/xml/bitfield_vbseo.xml" for 77.244.252.138 at 2012-01-29 13:27:33 -0500
+
+ActionController::RoutingError (No route matches [GET] "/forum/includes/xml/bitfield_vbseo.xml"):
+  
+
+
+
+Started GET "//includes/xml/bitfield_vbseo.xml" for 77.244.252.138 at 2012-01-29 13:27:33 -0500
+
+ActionController::RoutingError (No route matches [GET] "/includes/xml/bitfield_vbseo.xml"):
+  
+
+
+
+Started GET "//vb/includes/xml/bitfield_vbseo.xml" for 77.244.252.138 at 2012-01-29 13:27:33 -0500
+
+ActionController::RoutingError (No route matches [GET] "/vb/includes/xml/bitfield_vbseo.xml"):
+  
+
+
+
+Started GET "//forums/includes/xml/bitfield_vbseo.xml" for 77.244.252.138 at 2012-01-29 13:27:34 -0500
+
+ActionController::RoutingError (No route matches [GET] "/forums/includes/xml/bitfield_vbseo.xml"):
+  
+
+
+
+Started GET "//vbulletin/includes/xml/bitfield_vbseo.xml" for 77.244.252.138 at 2012-01-29 13:27:34 -0500
+
+ActionController::RoutingError (No route matches [GET] "/vbulletin/includes/xml/bitfield_vbseo.xml"):
+  
+
+
+
+Started GET "/robots.txt" for 64.246.165.50 at 2012-01-29 14:41:49 -0500
+
+ActionController::RoutingError (No route matches [GET] "/robots.txt"):
+  
+
+
+
+Started GET "/" for 64.246.165.50 at 2012-01-29 14:41:49 -0500
+  Processing by PagesController#index as */*
+Rendered pages/index.haml within layouts/application (9.2ms)
+Completed 200 OK in 15ms (Views: 14.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 217.141.200.61 at 2012-01-29 16:14:03 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.haml within layouts/application (1.3ms)
+Completed 200 OK in 5ms (Views: 4.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 62.141.45.191 at 2012-01-29 19:29:18 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.haml within layouts/application (0.5ms)
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 70.26.177.23 at 2012-01-30 01:12:41 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.haml within layouts/application (8.5ms)
+Completed 500 Internal Server Error in 30ms
+
+ActionView::Template::Error (/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected ')', expecting tASSOC
+...e => "text", 'x-webkit-speech')}>\n<form onsubmit='return fa...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...bkit-speech')}>\n<form onsubmit='return false;'>\n<select id...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...form onsubmit='return false;'>\n<select id='v' name='v'>\n<o...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...it='return false;'>\n<select id='v' name='v'>\n<option selec...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting '}'
+...n false;'>\n<select id='v' name='v'>\n<option selected='sele...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...e;'>\n<select id='v' name='v'>\n<option selected='selected' ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...'v' name='v'>\n<option selected='selected' value='en'>Englis...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting '}'
+...ption selected='selected' value='en'>English</option>\n<opti...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...ion value='de'>German</option>\n<option value='fr'>French</o...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...>German</option>\n<option value='fr'>French</option>\n<optio...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...on value='es'>Spanish</option>\n<option value='ro'>Romanian<...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...Spanish</option>\n<option value='ro'>Romanian</option>\n<opt...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...on value='sr'>Serbian</option>\n</select>\n<select id='g' na...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...ion value='m1'>Male 1</option>\n<option value='m2'>Male 2</o...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...>Male 1</option>\n<option value='m2'>Male 2</option>\n<optio...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tINTEGER, expecting keyword_do or '{' or '('
+...ion>\n<option value='m2'>Male 2</option>\n<option value='m3'...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...ion value='m3'>Male 3</option>\n<option value='m4'>Male 4</o...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...>Male 3</option>\n<option value='m4'>Male 4</option>\n<optio...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tINTEGER, expecting keyword_do or '{' or '('
+...ion>\n<option value='m4'>Male 4</option>\n<option value='m5'...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...ion value='m5'>Male 5</option>\n<option value='m6'>Male 6</o...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...>Male 5</option>\n<option value='m6'>Male 6</option>\n<optio...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tINTEGER, expecting keyword_do or '{' or '('
+...ion>\n<option value='m6'>Male 6</option>\n<option value='m7'...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...ion value='m7'>Male 7</option>\n<option value='f1'>Female 1<...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...>Male 7</option>\n<option value='f1'>Female 1</option>\n<opt...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tINTEGER, expecting keyword_do or '{' or '('
+...n>\n<option value='f1'>Female 1</option>\n<option value='f2'...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...n value='f2'>Female 2</option>\n<option value='f3'>Female 3<...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...emale 2</option>\n<option value='f3'>Female 3</option>\n<opt...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tINTEGER, expecting keyword_do or '{' or '('
+...n>\n<option value='f3'>Female 3</option>\n<option value='f4'...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...n value='f4'>Female 4</option>\n<option value='f5'>Female 5<...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...emale 4</option>\n<option value='f5'>Female 5</option>\n<opt...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tINTEGER, expecting keyword_do or '{' or '('
+...n>\n<option value='f5'>Female 5</option>\n<option value='en-...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...alue='en-f2'>Female 6</option>\n<option value='whisper'>Whis...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...emale 6</option>\n<option value='whisper'>Whisper Male</opti...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tCONSTANT, expecting keyword_do or '{' or '('
+...on value='whisper'>Whisper Male</option>\n<option value='whi...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...sperf'>Whisper Female</option>\n<option value='klatt'>Klatt ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+... Female</option>\n<option value='klatt'>Klatt 1</option>\n<o...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tINTEGER, expecting keyword_do or '{' or '('
+...\n<option value='klatt'>Klatt 1</option>\n<option value='kla...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...alue='klatt2'>Klatt 2</option>\n<option value='klatt3'>Klatt...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...Klatt 2</option>\n<option value='klatt3'>Klatt 3</option>\n<...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tINTEGER, expecting keyword_do or '{' or '('
+...n<option value='klatt3'>Klatt 3</option>\n<option value='cro...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...n value='croak'>Croak</option>\n</select>\n<select id='p' na...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...n value='0'>low pitch</option>\n<option selected='selected' ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...itch</option>\n<option selected='selected' value='40'>midium...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting '}'
+...ption selected='selected' value='40'>midium pitch</option>\n...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...lected' value='40'>midium pitch</option>\n<option value='99'...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...value='99'>high pitch</option>\n</select>\n<select id='s' na...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...ption value='80'>slow</option>\n<option selected='selected' ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...slow</option>\n<option selected='selected' value='140'>norma...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting '}'
+...ption selected='selected' value='140'>normal</option>\n<opti...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...tion value='370'>fast</option>\n</select>\n<input id='t' nam...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - btt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+... type='submit'>Submit</button>\n</form>\n<div class='movieCo...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: unknown regexp options - bd
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined
+...lash", :wmode => "")}></embed>\n</div>\n<script>\n  //<![CDA...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected '<'
+...embed>\n</div>\n<script>\n  //<![CDATA[\n      function play...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined, expecting ']'
+.../div>\n<script>\n  //<![CDATA[\n      function play() {\n   ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined
+...DATA[\n      function play() {\n        params = 'text=' + $...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined
+...{\n        params = 'text=' + $('#t').val() + '&voice=' + $(...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected ')', expecting '}'
+...     params = 'text=' + $('#t').val() + '&voice=' + $('#v')....
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined
+...+ $('#t').val() + '&voice=' + $('#v').val() + '&gender=' + $...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected ')', expecting '}'
+...t').val() + '&voice=' + $('#v').val() + '&gender=' + $('#g')...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined
+... $('#v').val() + '&gender=' + $('#g').val() + '&pitch=' + $(...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected ')', expecting '}'
+...').val() + '&gender=' + $('#g').val() + '&pitch=' + $('#p')....
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined
+...+ $('#g').val() + '&pitch=' + $('#p').val() + '&speed=' + $(...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected ')', expecting '}'
+...g').val() + '&pitch=' + $('#p').val() + '&speed=' + $('#s')....
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined
+...+ $('#p').val() + '&speed=' + $('#s').val();\n        soundM...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected ')', expecting '}'
+...p').val() + '&speed=' + $('#s').val();\n        soundManager...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined, expecting '}'
+...) + '&speed=' + $('#s').val();\n        soundManager.createS...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined, expecting '}'
+...rs/output?' + params}).play();\n        $('#t').focus();\n  ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected ')', expecting '}'
+...rams}).play();\n        $('#t').focus();\n      }\n    \n   ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined, expecting '}'
+...y();\n        $('#t').focus();\n      }\n    \n      $('#t')...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected ')', expecting '}'
+...;\n      }\n    \n      $('#t').keyup(function(e) {\n       ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined
+...   $('#t').keyup(function(e) {\n        if (e.keyCode == 13)...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected '{', expecting '}'
+...n        if (e.keyCode == 13) {\n          play();\n        ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined, expecting '}'
+...de == 13) {\n          play();\n        }\n      });\n    \n...
+...                               ^):
+    2:   soundManager.url = '/assets'; 
+    3:   soundManager.debugMode = true
+    4: 
+    5: %input{:type => "text", 'x-webkit-speech'}
+    6:   
+    7: %form{:onsubmit => "return false;"}
+    8:   %select#v{:name => "v"}
+  
+
+
+
+Started GET "/favicon.ico" for 70.26.177.23 at 2012-01-30 01:12:42 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/" for 70.26.177.23 at 2012-01-30 01:13:52 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.haml within layouts/application (8.6ms)
+Completed 500 Internal Server Error in 30ms
+
+ActionView::Template::Error (/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected ')', expecting tASSOC
+...ype => "text", x-webkit-speech)}>\n<form onsubmit='return fa...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...ebkit-speech)}>\n<form onsubmit='return false;'>\n<select id...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...form onsubmit='return false;'>\n<select id='v' name='v'>\n<o...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...it='return false;'>\n<select id='v' name='v'>\n<option selec...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting '}'
+...n false;'>\n<select id='v' name='v'>\n<option selected='sele...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...e;'>\n<select id='v' name='v'>\n<option selected='selected' ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...'v' name='v'>\n<option selected='selected' value='en'>Englis...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting '}'
+...ption selected='selected' value='en'>English</option>\n<opti...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...ion value='de'>German</option>\n<option value='fr'>French</o...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...>German</option>\n<option value='fr'>French</option>\n<optio...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...on value='es'>Spanish</option>\n<option value='ro'>Romanian<...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...Spanish</option>\n<option value='ro'>Romanian</option>\n<opt...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...on value='sr'>Serbian</option>\n</select>\n<select id='g' na...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...ion value='m1'>Male 1</option>\n<option value='m2'>Male 2</o...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...>Male 1</option>\n<option value='m2'>Male 2</option>\n<optio...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tINTEGER, expecting keyword_do or '{' or '('
+...ion>\n<option value='m2'>Male 2</option>\n<option value='m3'...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...ion value='m3'>Male 3</option>\n<option value='m4'>Male 4</o...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...>Male 3</option>\n<option value='m4'>Male 4</option>\n<optio...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tINTEGER, expecting keyword_do or '{' or '('
+...ion>\n<option value='m4'>Male 4</option>\n<option value='m5'...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...ion value='m5'>Male 5</option>\n<option value='m6'>Male 6</o...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...>Male 5</option>\n<option value='m6'>Male 6</option>\n<optio...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tINTEGER, expecting keyword_do or '{' or '('
+...ion>\n<option value='m6'>Male 6</option>\n<option value='m7'...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...ion value='m7'>Male 7</option>\n<option value='f1'>Female 1<...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...>Male 7</option>\n<option value='f1'>Female 1</option>\n<opt...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tINTEGER, expecting keyword_do or '{' or '('
+...n>\n<option value='f1'>Female 1</option>\n<option value='f2'...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...n value='f2'>Female 2</option>\n<option value='f3'>Female 3<...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...emale 2</option>\n<option value='f3'>Female 3</option>\n<opt...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tINTEGER, expecting keyword_do or '{' or '('
+...n>\n<option value='f3'>Female 3</option>\n<option value='f4'...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...n value='f4'>Female 4</option>\n<option value='f5'>Female 5<...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...emale 4</option>\n<option value='f5'>Female 5</option>\n<opt...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tINTEGER, expecting keyword_do or '{' or '('
+...n>\n<option value='f5'>Female 5</option>\n<option value='en-...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...alue='en-f2'>Female 6</option>\n<option value='whisper'>Whis...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...emale 6</option>\n<option value='whisper'>Whisper Male</opti...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tCONSTANT, expecting keyword_do or '{' or '('
+...on value='whisper'>Whisper Male</option>\n<option value='whi...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...sperf'>Whisper Female</option>\n<option value='klatt'>Klatt ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+... Female</option>\n<option value='klatt'>Klatt 1</option>\n<o...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tINTEGER, expecting keyword_do or '{' or '('
+...\n<option value='klatt'>Klatt 1</option>\n<option value='kla...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...alue='klatt2'>Klatt 2</option>\n<option value='klatt3'>Klatt...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...Klatt 2</option>\n<option value='klatt3'>Klatt 3</option>\n<...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tINTEGER, expecting keyword_do or '{' or '('
+...n<option value='klatt3'>Klatt 3</option>\n<option value='cro...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...n value='croak'>Croak</option>\n</select>\n<select id='p' na...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...n value='0'>low pitch</option>\n<option selected='selected' ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...itch</option>\n<option selected='selected' value='40'>midium...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting '}'
+...ption selected='selected' value='40'>midium pitch</option>\n...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...lected' value='40'>midium pitch</option>\n<option value='99'...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...value='99'>high pitch</option>\n</select>\n<select id='s' na...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...ption value='80'>slow</option>\n<option selected='selected' ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...slow</option>\n<option selected='selected' value='140'>norma...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting '}'
+...ption selected='selected' value='140'>normal</option>\n<opti...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...tion value='370'>fast</option>\n</select>\n<input id='t' nam...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - btt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+... type='submit'>Submit</button>\n</form>\n<div class='movieCo...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: unknown regexp options - bd
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined
+...lash", :wmode => "")}></embed>\n</div>\n<script>\n  //<![CDA...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected '<'
+...embed>\n</div>\n<script>\n  //<![CDATA[\n      function play...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined, expecting ']'
+.../div>\n<script>\n  //<![CDATA[\n      function play() {\n   ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined
+...DATA[\n      function play() {\n        params = 'text=' + $...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined
+...{\n        params = 'text=' + $('#t').val() + '&voice=' + $(...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected ')', expecting '}'
+...     params = 'text=' + $('#t').val() + '&voice=' + $('#v')....
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined
+...+ $('#t').val() + '&voice=' + $('#v').val() + '&gender=' + $...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected ')', expecting '}'
+...t').val() + '&voice=' + $('#v').val() + '&gender=' + $('#g')...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined
+... $('#v').val() + '&gender=' + $('#g').val() + '&pitch=' + $(...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected ')', expecting '}'
+...').val() + '&gender=' + $('#g').val() + '&pitch=' + $('#p')....
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined
+...+ $('#g').val() + '&pitch=' + $('#p').val() + '&speed=' + $(...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected ')', expecting '}'
+...g').val() + '&pitch=' + $('#p').val() + '&speed=' + $('#s')....
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined
+...+ $('#p').val() + '&speed=' + $('#s').val();\n        soundM...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected ')', expecting '}'
+...p').val() + '&speed=' + $('#s').val();\n        soundManager...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined, expecting '}'
+...) + '&speed=' + $('#s').val();\n        soundManager.createS...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined, expecting '}'
+...rs/output?' + params}).play();\n        $('#t').focus();\n  ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected ')', expecting '}'
+...rams}).play();\n        $('#t').focus();\n      }\n    \n   ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined, expecting '}'
+...y();\n        $('#t').focus();\n      }\n    \n      $('#t')...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected ')', expecting '}'
+...;\n      }\n    \n      $('#t').keyup(function(e) {\n       ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined
+...   $('#t').keyup(function(e) {\n        if (e.keyCode == 13)...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected '{', expecting '}'
+...n        if (e.keyCode == 13) {\n          play();\n        ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined, expecting '}'
+...de == 13) {\n          play();\n        }\n      });\n    \n...
+...                               ^):
+    2:   soundManager.url = '/assets'; 
+    3:   soundManager.debugMode = true
+    4: 
+    5: %input{:type => "text", x-webkit-speech}
+    6:   
+    7: %form{:onsubmit => "return false;"}
+    8:   %select#v{:name => "v"}
+  
+
+
+
+Started GET "/favicon.ico" for 70.26.177.23 at 2012-01-30 01:13:53 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/" for 70.26.177.23 at 2012-01-30 01:13:55 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.haml within layouts/application (9.8ms)
+Completed 500 Internal Server Error in 11ms
+
+ActionView::Template::Error (/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected ')', expecting tASSOC
+...ype => "text", x-webkit-speech)}>\n<form onsubmit='return fa...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...ebkit-speech)}>\n<form onsubmit='return false;'>\n<select id...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...form onsubmit='return false;'>\n<select id='v' name='v'>\n<o...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...it='return false;'>\n<select id='v' name='v'>\n<option selec...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting '}'
+...n false;'>\n<select id='v' name='v'>\n<option selected='sele...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...e;'>\n<select id='v' name='v'>\n<option selected='selected' ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...'v' name='v'>\n<option selected='selected' value='en'>Englis...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting '}'
+...ption selected='selected' value='en'>English</option>\n<opti...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...ion value='de'>German</option>\n<option value='fr'>French</o...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...>German</option>\n<option value='fr'>French</option>\n<optio...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...on value='es'>Spanish</option>\n<option value='ro'>Romanian<...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...Spanish</option>\n<option value='ro'>Romanian</option>\n<opt...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...on value='sr'>Serbian</option>\n</select>\n<select id='g' na...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...ion value='m1'>Male 1</option>\n<option value='m2'>Male 2</o...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...>Male 1</option>\n<option value='m2'>Male 2</option>\n<optio...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tINTEGER, expecting keyword_do or '{' or '('
+...ion>\n<option value='m2'>Male 2</option>\n<option value='m3'...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...ion value='m3'>Male 3</option>\n<option value='m4'>Male 4</o...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...>Male 3</option>\n<option value='m4'>Male 4</option>\n<optio...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tINTEGER, expecting keyword_do or '{' or '('
+...ion>\n<option value='m4'>Male 4</option>\n<option value='m5'...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...ion value='m5'>Male 5</option>\n<option value='m6'>Male 6</o...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...>Male 5</option>\n<option value='m6'>Male 6</option>\n<optio...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tINTEGER, expecting keyword_do or '{' or '('
+...ion>\n<option value='m6'>Male 6</option>\n<option value='m7'...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...ion value='m7'>Male 7</option>\n<option value='f1'>Female 1<...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...>Male 7</option>\n<option value='f1'>Female 1</option>\n<opt...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tINTEGER, expecting keyword_do or '{' or '('
+...n>\n<option value='f1'>Female 1</option>\n<option value='f2'...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...n value='f2'>Female 2</option>\n<option value='f3'>Female 3<...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...emale 2</option>\n<option value='f3'>Female 3</option>\n<opt...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tINTEGER, expecting keyword_do or '{' or '('
+...n>\n<option value='f3'>Female 3</option>\n<option value='f4'...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...n value='f4'>Female 4</option>\n<option value='f5'>Female 5<...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...emale 4</option>\n<option value='f5'>Female 5</option>\n<opt...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tINTEGER, expecting keyword_do or '{' or '('
+...n>\n<option value='f5'>Female 5</option>\n<option value='en-...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...alue='en-f2'>Female 6</option>\n<option value='whisper'>Whis...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...emale 6</option>\n<option value='whisper'>Whisper Male</opti...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tCONSTANT, expecting keyword_do or '{' or '('
+...on value='whisper'>Whisper Male</option>\n<option value='whi...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...sperf'>Whisper Female</option>\n<option value='klatt'>Klatt ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+... Female</option>\n<option value='klatt'>Klatt 1</option>\n<o...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tINTEGER, expecting keyword_do or '{' or '('
+...\n<option value='klatt'>Klatt 1</option>\n<option value='kla...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...alue='klatt2'>Klatt 2</option>\n<option value='klatt3'>Klatt...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...Klatt 2</option>\n<option value='klatt3'>Klatt 3</option>\n<...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tINTEGER, expecting keyword_do or '{' or '('
+...n<option value='klatt3'>Klatt 3</option>\n<option value='cro...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...n value='croak'>Croak</option>\n</select>\n<select id='p' na...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...n value='0'>low pitch</option>\n<option selected='selected' ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...itch</option>\n<option selected='selected' value='40'>midium...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting '}'
+...ption selected='selected' value='40'>midium pitch</option>\n...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...lected' value='40'>midium pitch</option>\n<option value='99'...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...value='99'>high pitch</option>\n</select>\n<select id='s' na...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...ption value='80'>slow</option>\n<option selected='selected' ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...slow</option>\n<option selected='selected' value='140'>norma...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting '}'
+...ption selected='selected' value='140'>normal</option>\n<opti...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - pt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+...tion value='370'>fast</option>\n</select>\n<input id='t' nam...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:5: unknown regexp options - btt
+/var/www/guide_god/app/views/pages/index.haml:5: syntax error, unexpected $undefined
+... type='submit'>Submit</button>\n</form>\n<div class='movieCo...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: unknown regexp options - bd
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined
+...lash", :wmode => "")}></embed>\n</div>\n<script>\n  //<![CDA...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected '<'
+...embed>\n</div>\n<script>\n  //<![CDATA[\n      function play...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined, expecting ']'
+.../div>\n<script>\n  //<![CDATA[\n      function play() {\n   ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined
+...DATA[\n      function play() {\n        params = 'text=' + $...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined
+...{\n        params = 'text=' + $('#t').val() + '&voice=' + $(...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected ')', expecting '}'
+...     params = 'text=' + $('#t').val() + '&voice=' + $('#v')....
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined
+...+ $('#t').val() + '&voice=' + $('#v').val() + '&gender=' + $...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected ')', expecting '}'
+...t').val() + '&voice=' + $('#v').val() + '&gender=' + $('#g')...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined
+... $('#v').val() + '&gender=' + $('#g').val() + '&pitch=' + $(...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected ')', expecting '}'
+...').val() + '&gender=' + $('#g').val() + '&pitch=' + $('#p')....
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined
+...+ $('#g').val() + '&pitch=' + $('#p').val() + '&speed=' + $(...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected ')', expecting '}'
+...g').val() + '&pitch=' + $('#p').val() + '&speed=' + $('#s')....
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined
+...+ $('#p').val() + '&speed=' + $('#s').val();\n        soundM...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected ')', expecting '}'
+...p').val() + '&speed=' + $('#s').val();\n        soundManager...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined, expecting '}'
+...) + '&speed=' + $('#s').val();\n        soundManager.createS...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined, expecting '}'
+...rs/output?' + params}).play();\n        $('#t').focus();\n  ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected ')', expecting '}'
+...rams}).play();\n        $('#t').focus();\n      }\n    \n   ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined, expecting '}'
+...y();\n        $('#t').focus();\n      }\n    \n      $('#t')...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected ')', expecting '}'
+...;\n      }\n    \n      $('#t').keyup(function(e) {\n       ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined
+...   $('#t').keyup(function(e) {\n        if (e.keyCode == 13)...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected '{', expecting '}'
+...n        if (e.keyCode == 13) {\n          play();\n        ...
+...                               ^
+/var/www/guide_god/app/views/pages/index.haml:50: syntax error, unexpected $undefined, expecting '}'
+...de == 13) {\n          play();\n        }\n      });\n    \n...
+...                               ^):
+    2:   soundManager.url = '/assets'; 
+    3:   soundManager.debugMode = true
+    4: 
+    5: %input{:type => "text", x-webkit-speech}
+    6:   
+    7: %form{:onsubmit => "return false;"}
+    8:   %select#v{:name => "v"}
+  
+
+
+
+Started GET "/favicon.ico" for 70.26.177.23 at 2012-01-30 01:13:55 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/" for 70.26.177.23 at 2012-01-30 01:17:56 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 33ms (Views: 32.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/soundmanager2_debug.swf" for 70.26.177.23 at 2012-01-30 01:17:57 -0500
+
+ActionController::RoutingError (No route matches [GET] "/soundmanager2_debug.swf"):
+  
+
+
+
+Started GET "/favicon.ico" for 70.26.177.23 at 2012-01-30 01:17:57 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/" for 70.26.177.23 at 2012-01-30 01:20:32 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/favicon.ico" for 70.26.177.23 at 2012-01-30 01:20:33 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/soundmanager2_debug.swf" for 70.26.177.23 at 2012-01-30 01:20:33 -0500
+
+ActionController::RoutingError (No route matches [GET] "/soundmanager2_debug.swf"):
+  
+
+
+
+Started GET "/favicon.ico" for 70.26.177.23 at 2012-01-30 01:20:33 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/" for 70.26.177.23 at 2012-01-30 01:21:24 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/favicon.ico" for 70.26.177.23 at 2012-01-30 01:21:29 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/soundmanager2_debug.swf" for 70.26.177.23 at 2012-01-30 01:21:29 -0500
+
+ActionController::RoutingError (No route matches [GET] "/soundmanager2_debug.swf"):
+  
+
+
+
+Started GET "/" for 24.37.38.110 at 2012-01-30 06:49:09 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 46ms (Views: 46.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/soundmanager2_debug.swf" for 24.37.38.110 at 2012-01-30 06:49:10 -0500
+
+ActionController::RoutingError (No route matches [GET] "/soundmanager2_debug.swf"):
+  
+
+
+
+Started GET "/" for 24.37.38.110 at 2012-01-30 06:49:24 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/soundmanager2_debug.swf" for 24.37.38.110 at 2012-01-30 06:49:25 -0500
+
+ActionController::RoutingError (No route matches [GET] "/soundmanager2_debug.swf"):
+  
+
+
+
+Started GET "/favicon.ico" for 24.37.38.110 at 2012-01-30 06:49:25 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/" for 24.37.38.110 at 2012-01-30 06:50:31 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/soundmanager2_debug.swf" for 24.37.38.110 at 2012-01-30 06:50:31 -0500
+
+ActionController::RoutingError (No route matches [GET] "/soundmanager2_debug.swf"):
+  
+
+
+
+Started GET "/favicon.ico" for 24.37.38.110 at 2012-01-30 06:50:31 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/" for 24.37.38.110 at 2012-01-30 06:52:17 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 46ms (Views: 46.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/soundmanager2_debug.swf" for 24.37.38.110 at 2012-01-30 06:52:18 -0500
+Served asset /soundmanager2_debug.swf - 404 Not Found (4ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/soundmanager2_debug.swf"):
+  
+
+
+
+Started GET "/" for 24.37.38.110 at 2012-01-30 06:52:37 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/soundmanager2_debug.swf" for 24.37.38.110 at 2012-01-30 06:52:38 -0500
+Served asset /soundmanager2_debug.swf - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/soundmanager2_debug.swf"):
+  
+
+
+
+Started GET "/favicon.ico" for 24.37.38.110 at 2012-01-30 06:52:38 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/" for 24.37.38.110 at 2012-01-30 06:52:41 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/soundmanager2_debug.swf" for 24.37.38.110 at 2012-01-30 06:52:42 -0500
+Served asset /soundmanager2_debug.swf - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/soundmanager2_debug.swf"):
+  
+
+
+
+Started GET "/favicon.ico" for 24.37.38.110 at 2012-01-30 06:52:42 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/" for 24.37.38.110 at 2012-01-30 06:53:48 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 46ms (Views: 45.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 24.37.38.110 at 2012-01-30 06:53:50 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (1ms)
+
+
+Started GET "/favicon.ico" for 24.37.38.110 at 2012-01-30 06:53:50 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/" for 24.37.38.110 at 2012-01-30 06:55:04 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 47ms (Views: 46.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 24.37.38.110 at 2012-01-30 06:55:05 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (1ms)
+
+
+Started GET "/favicon.ico" for 24.37.38.110 at 2012-01-30 06:55:05 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/" for 24.37.38.110 at 2012-01-30 06:55:07 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 24.37.38.110 at 2012-01-30 06:55:08 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (0ms)
+
+
+Started GET "/favicon.ico" for 24.37.38.110 at 2012-01-30 06:55:08 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/" for 24.37.38.110 at 2012-01-30 06:55:16 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/favicon.ico" for 24.37.38.110 at 2012-01-30 06:55:17 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/assets/soundmanager2.swf" for 24.37.38.110 at 2012-01-30 06:55:17 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (0ms)
+
+
+Started GET "/" for 24.37.38.110 at 2012-01-30 07:19:15 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 47ms (Views: 46.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 24.37.38.110 at 2012-01-30 07:19:15 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (1ms)
+
+
+Started GET "/favicon.ico" for 24.37.38.110 at 2012-01-30 07:19:15 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/" for 24.37.38.110 at 2012-01-30 07:19:21 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 24.37.38.110 at 2012-01-30 07:19:21 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (0ms)
+
+
+Started GET "/favicon.ico" for 24.37.38.110 at 2012-01-30 07:19:21 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/" for 24.37.38.110 at 2012-01-30 07:20:31 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 24.37.38.110 at 2012-01-30 07:20:36 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (0ms)
+
+
+Started GET "/" for 24.37.38.110 at 2012-01-30 07:22:44 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/favicon.ico" for 24.37.38.110 at 2012-01-30 07:22:51 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/assets/soundmanager2.swf" for 24.37.38.110 at 2012-01-30 07:22:54 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (0ms)
+
+
+Started GET "/favicon.ico" for 24.37.38.110 at 2012-01-30 07:23:50 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/assets/soundmanager2.swf" for 24.37.38.110 at 2012-01-30 07:23:53 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (0ms)
+
+
+Started GET "/favicon.ico" for 24.37.38.110 at 2012-01-30 07:23:53 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/" for 24.37.38.110 at 2012-01-30 07:33:25 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/favicon.ico" for 24.37.38.110 at 2012-01-30 07:33:33 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+
+
+Started GET "/" for 24.37.38.110 at 2012-01-30 07:41:28 -0500
+  Processing by PagesController#index as HTML
+Rendered pages/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 47ms (Views: 46.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/soundmanager2.swf" for 24.37.38.110 at 2012-01-30 07:41:28 -0500
+Served asset /soundmanager2.swf - 304 Not Modified (1ms)
+
+
+Started GET "/favicon.ico" for 24.37.38.110 at 2012-01-30 07:41:28 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+

@@ -1,0 +1,53 @@
+<script>
+  soundManager.url = '/assets'; 
+  soundManager.debugMode = false
+
+  if (document.createElement("input").webkitSpeech === undefined) {
+	alert("Speech input is not supported in your browser.");
+  }
+
+  function checkanswer() {
+    var answer = document.getElementById('talk').value;
+    if (answer == 'lady gaga') {
+      alert("Well done!");
+    }
+    else {
+      alert("Oh No! Lady Gaga will be really upset you did not get this one right.");
+    }
+  }
+</script>
+
+<form action="#">
+  <input id="talk" type="text"  lang="en-US"  x-webkit-speech  speech  onwebkitspeechchange="checkanswer();" />
+  <!--<input  type="text"  lang="en-US"  x-webkit-speech  speech  onwebkitspeechchange="this.form.submit();" />-->
+</form>
+<!--<input type="text" x-webkit-speech />
+
+<input type="text" x-webkit-speech="x-webkit-speech" />
+
+
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load("language", "1");  // Load the translator JS library.
+
+      // These will most likely be set in a UI.
+      var fromLang = "en";
+      var toLang = "es";
+
+      function handleSpeechInput(event) {
+        var text = event.target.value;
+        var callback = function(result) {
+          if (result.translation)
+            speak(result.translation, toLang);
+        };
+        google.language.translate(text, fromLang, toLang, callback);
+      }
+
+      function speak(output, lang) {
+        // (Use <audio> or a TTS API to speak output in lang) 
+      }
+    </script>
+
+    <form>
+    <input speech onspeechchange="handleSpeechInput">
+    </form>-->
